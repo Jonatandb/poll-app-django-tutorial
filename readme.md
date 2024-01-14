@@ -13,8 +13,14 @@ Realizada siguiendo el [Tutorial oficial Django](https://docs.djangoproject.com/
 ## Accediendo a la aplicación:
 - http://localhost:8000
 
+## Accediendo al panel de administración:
+- http://localhost:8000/admin
+- User: admin
+- Pass: admin
+
 #
 #
+
 
 ---
 ---
