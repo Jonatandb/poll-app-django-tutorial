@@ -13,3 +13,13 @@ Realizada siguiendo el [Tutorial oficial Django](https://docs.djangoproject.com/
 ## Accediendo a la aplicación:
 - http://localhost:8000
 
+#
+#
+
+---
+---
+---
+
+## Researched websites
+- https://fonts.google.com/specimen/Lato
+- https://midu.dev/buenas-practicas-escribir-commits-git/
