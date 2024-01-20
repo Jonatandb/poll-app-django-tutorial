@@ -27,5 +27,6 @@ Realizada siguiendo el [Tutorial oficial Django](https://docs.djangoproject.com/
 ---
 
 ## Researched websites
+- https://sonneiltech.com/es/2021/02/solicitudes-api-en-masa-con-postman/
 - https://fonts.google.com/specimen/Lato
 - https://midu.dev/buenas-practicas-escribir-commits-git/
