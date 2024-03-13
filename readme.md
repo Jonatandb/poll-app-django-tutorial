@@ -4,14 +4,15 @@ Realizada siguiendo el [Tutorial oficial Django](https://docs.djangoproject.com/
 
 ---
 
-## Activando el entorno virtual:
-- source venv/Scripts/activate
+## Activación del entorno virtual:
+- Desde la consola bash:  source venv/Scripts/activate
+- Desde la consola de Windows: cd venv -> cd Scripts -> activate.bat
 
 ## Iniciando el servidor:
 - py manage.py runserver
 
 ## Accediendo a la aplicación:
-- http://localhost:8000
+- http://localhost:8000/polls
 
 ## Accediendo al panel de administración:
 - http://localhost:8000/admin
